@@ -8,5 +8,7 @@ This trains and tests a tranformer model on the LearningQ dataset. In order to r
 The following libraries need to be installed:
 
 pytorch
+
 nltk
+
 torchtext
